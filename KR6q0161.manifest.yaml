@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0161_000.yaml, hash: 'sha256:d010a47f0c3a56e8558ac6a3f95fd7a1f4d9e675b8f83ad542696699b050a4fa'}
-  - {seq: 1, filename: KR6q0161_001.yaml, hash: 'sha256:155239fd41bfa64182ba4d8d8fea71b65c8878ec142f46c8843646e6729f694e'}
+  - {seq: 1, filename: KR6q0161_001.yaml, hash: 'sha256:6cc7062015c83fac819b5b019bbc39fc18080782ed6dc37b46574d06063658e4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0161_001.markers.yaml, hash: 'sha256:0ae0902aada0e4b1956b6eac3087dd5655b2451540956257cebabe18d6856df8'}
+  - {seq: 0, role: markers, filename: assets/KR6q0161_000.markers.yaml, hash: 'sha256:6475510106b0930675aa934d4246242df397a557b2cb5f2e5dd91e0a63f895b7'}
+  - {seq: 1, role: markers, filename: assets/KR6q0161_001.markers.yaml, hash: 'sha256:5b6a6c94e0a864e5951b37e01f331d072f5bcf93c897ff02e66bf69574361421'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2046,7 +2047,4 @@ table_of_contents:
   label: 入廛(童子向東前行白牛相隨在後)
   type: mulu
   level: 1
-hash: sha256:341646e154eefb1e799ad0aa757f868f81bc962b0aca35c8ca8e36f7000d2db3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:922e510af14ded8d81f054c673c718113284108454fa45d380ca0f6e04a2f8df
