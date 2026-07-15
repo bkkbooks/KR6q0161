@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0161/v1
 canonical_location: https://kanripo.org/bkk/KR6q0161/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十牛圖和頌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0161_000.yaml, hash: 'sha256:d010a47f0c3a56e8558ac6a3f95fd7a1f4d9e675b8f83ad542696699b050a4fa'}
-  - {seq: 1, filename: KR6q0161_001.yaml, hash: 'sha256:6cc7062015c83fac819b5b019bbc39fc18080782ed6dc37b46574d06063658e4'}
+  - {seq: 1, filename: KR6q0161_001.yaml, hash: 'sha256:7b175399c10042b01ef5cfcf968c988b4b5b742a8a251046cef35801d1883dd3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0161_000.markers.yaml, hash: 'sha256:6475510106b0930675aa934d4246242df397a557b2cb5f2e5dd91e0a63f895b7'}
-  - {seq: 1, role: markers, filename: assets/KR6q0161_001.markers.yaml, hash: 'sha256:5b6a6c94e0a864e5951b37e01f331d072f5bcf93c897ff02e66bf69574361421'}
+  - {seq: 1, role: markers, filename: assets/KR6q0161_001.markers.yaml, hash: 'sha256:fda5500dcc575c21b4484241aedbea7505aa86800c99c35ff84639fd89607f58'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2047,4 +2047,7 @@ table_of_contents:
   label: 入廛(童子向東前行白牛相隨在後)
   type: mulu
   level: 1
-hash: sha256:922e510af14ded8d81f054c673c718113284108454fa45d380ca0f6e04a2f8df
+hash: sha256:04adde510b4a139fe8df188d7a22ffee650414b022d2fa788b59137ae44ea7fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
